@@ -1,0 +1,28 @@
+# visual studio code
+.vscode/
+.idea/
+
+# python
+venv/
+virtualenv/
+__pycache__/
+
+# misc
+.DS_Store
+
+# results
+# *.mp3
+# *.mp4
+# *.wav
+# *.jpg
+# *.png
+# *.jpeg
+# *.bmp
+
+# notebook checkpoints
+.ipynb_checkpoints
+
+# path
+log/*
+data/*
+test/*
