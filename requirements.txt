@@ -1,2 +1,2 @@
 numpy==1.19.2
-pillow==8.0.1
+pillow==8.1.1
